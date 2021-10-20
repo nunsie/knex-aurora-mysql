@@ -1,0 +1,12 @@
+{
+  "name": "knex-aurora-mysql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nunsie/knex-aurora-mysql.git",
+  "author": "Nusrath Khan <nusrath501khan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "knex-aurora-data-api-client": "^1.6.4"
+  }
+}
